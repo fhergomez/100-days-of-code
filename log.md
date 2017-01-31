@@ -25,7 +25,7 @@ This is my first day of #100daysofcode. I decided to start this challenge becaus
 
 **mood**: feeling good for being first day.
 
-**project**: [Random Quote App]()
+**project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
