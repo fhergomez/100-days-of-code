@@ -21,7 +21,7 @@
 
 ### Day 1: January 30, Monday
 
-# Coming Soon!
+This is my first day of #100daysofcode. I decided to start this challenge because for the last year I've been doing lots of tutorials, and I want to start making projects so I can get a job as a Front End Developer. Also, I wanted to do this challenge because I needed a distraction of what is going on arount the globe regarding DT. It was stressing me out, so I'm back to coding. Today I worked on the Random Quote App from freeCodeCamp.com. I was able to get random background colors and the color to match.
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
