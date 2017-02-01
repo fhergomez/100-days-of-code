@@ -20,14 +20,21 @@
 
 
 ### Day 1: January 30, Monday
-=======
 
 This is my first day of #100daysofcode. I decided to start this challenge because for the last year I've been doing lots of tutorials, and I want to start making projects so I can get a job as a Front End Developer. Also, I wanted to do this challenge because I needed a distraction of what is going on arount the globe regarding DT. It was stressing me out, so I'm back to coding. Today I worked on the Random Quote App from freeCodeCamp.com. I was able to get random background colors and the color to match.
 
 **mood**: feeling good for being first day.
 
 **project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
+=======
 
+### Day 2: January 31, Tuesday
+
+Today I implemented buttons and twitter icon on the Random Quote App. I did a bit of Javascript to change the background of the buttons, but I haven't started on the Random Quote API. I was feeling a bit under the weather, so hopefully tomorrow, I will be able to work more on JS.
+
+**mood**: feeling a bit under the weather (sick), so I couldn't advance very much on the app.
+
+**project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
 
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
