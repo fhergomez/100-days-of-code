@@ -27,13 +27,23 @@ This is my first day of #100daysofcode. I decided to start this challenge becaus
 
 **project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
 
-=======
+***
 
 ### Day 2: January 31, Tuesday
 
 Today I implemented buttons and twitter icon on the Random Quote App. I did a bit of Javascript to change the background of the buttons, but I haven't started on the Random Quote API. I was feeling a bit under the weather, so hopefully tomorrow, I will be able to work more on JS.
 
 **mood**: feeling a bit under the weather (sick), so I couldn't advance very much on the app.
+
+**project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
+
+***
+
+### day 3: February 1, Wednesday
+
+At first I wasn't sure how I was going to implement the API into my app, but after going through a [tutorial](https://www.udacity.com/course/intro-to-ajax--ud110) on Udacity, things became a lot clearer. The buttons are not fully functional, and that's what I'm planning to work on tomorrow morning.
+
+**mood**: I was feeling a little better than yesterday in regards to the cold that I have, and I was able to concentrate more on the JavaScript side. Overall I was feeling happy and eagered to learn new stuff.
 
 **project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
 
