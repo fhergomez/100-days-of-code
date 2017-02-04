@@ -39,13 +39,25 @@ Today I implemented buttons and twitter icon on the Random Quote App. I did a bi
 
 ***
 
-### day 3: February 1, Wednesday
+### Day 3: February 1, Wednesday
 
 At first I wasn't sure how I was going to implement the API into my app, but after going through a [tutorial](https://www.udacity.com/course/intro-to-ajax--ud110) on Udacity, things became a lot clearer. The buttons are not fully functional, and that's what I'm planning to work on tomorrow morning.
 
 **mood**: I was feeling a little better than yesterday in regards to the cold that I have, and I was able to concentrate more on the JavaScript side. Overall I was feeling happy and eagered to learn new stuff.
 
 **project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
+
+***
+
+### Day 4: February 2, Thursday
+
+Tried to finish the Random Quote App, but I couldn't get to re-tweet the quote. I will work on it a little more on Friday. If anybody has any ideas how to do this or where I can go to learn about it, I appreciate it.
+
+**mood**: I'm still a little sick, but I was able to code for a little bit more than an hour. Donald Trump is still stressing me out.
+
+**project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
+
+***
 
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
