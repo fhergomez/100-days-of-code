@@ -59,6 +59,14 @@ Tried to finish the Random Quote App, but I couldn't get to re-tweet the quote. 
 
 ***
 
+### Day 5: February 3, Friday
+
+Finished the Random Quote App by implementing some images in the background, and I was able to retweet the quote to my tweeter account. Now I'm on to the next challenge in FreeCodeCamp.com which is the Local Weather App.
+
+**mood**: I was feeling really good, I coded for about 4 hours and I couldnt stop. I wanted to keep going but it's 2 AM, and I need to get some sleep...zzzz!!
+
+**project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
+
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
