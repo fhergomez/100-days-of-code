@@ -67,6 +67,16 @@ Finished the Random Quote App by implementing some images in the background, and
 
 **project**: [Random Quote App](http://www.fernandogomez.io/randomQuote/)
 
+***
+
+### Day 6: February 4, Saturday
+
+Today I started the Weather App, so most of my time today was to get it ready and look at some examples for the App.
+
+**mood**: Since it was Saturday, I decided to only code for a little bit, but I was feeling good and a little anxious to watch the Super Bowl on Sunday. I don't know if I'm going to find the time to code tomorrow with this anxiety....GO FALCONS!! Falcons 35 - New England 20
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
