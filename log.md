@@ -77,6 +77,18 @@ Today I started the Weather App, so most of my time today was to get it ready an
 
 **project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
 
+***
+
+### Day 7: February 5, Sunday
+
+Working on the Weather App, I've been looking for the right weather API, but I'm not sure which one to use. I got some of the CSS and the HTML done, but I still got to get the footer on the right position, and I have to bring in the API.
+
+**mood**: I was feeling good, but most of the time I was thinking about the Super Bowl, so I couldn't concentrate very much; Beside, I think I drank too much so I couldn't get a lot done today.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+
+
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
