@@ -107,6 +107,16 @@ I'm still having trouble which API to use, but I think I finally found good docu
 
 **project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
 
+***
+
+### Day 10: February 8, Wednesday
+
+I'm having so much trouble with the API, I can't seem to be able to bring in the data into my App. I will keep at it for the next couple of days. I think that I've been so tired lately that I can't concentrate too much.
+
+**mood**: Today I was able to work on my code for a little longer, and I started earlier so I wouldn't fall asleep on my computer. :)
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
 
 
 
