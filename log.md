@@ -199,6 +199,25 @@ It took me a while to figure out what I was doing wrong regarding the value of t
 
 ***
 
+### Day 19: February 17, Friday
+
+Today I worked on resolving the issue where if the user would put either the city or the zip code the right results came out.
+
+**mood**: I was feeling good, and I was able to work on the app for more than 2 hours for the first time this week.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+***
+
+### Day 20: February 18, Saturday
+
+Today I'm trying to work on the front end and geolocation. I'm not sure what to display on the site.
+
+**mood**: Felt rested, but I did have a little anxiety because I had to do a lot of thing around the house.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+***
 
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
