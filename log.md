@@ -219,6 +219,14 @@ Today I'm trying to work on the front end and geolocation. I'm not sure what to 
 
 ***
 
+### Day 21: February 29, Sunday
+
+I was able to get geolocation working, and show up on the front end. Now I'll be working on putting all the info in the front end of the app.
+
+**mood**: I'm coming down with a cold, so I didn't fee very good trying to get my code to work. I'll probably feel worst tomorrow, so I'm not sure how I'm going to get any coding done.
+
+***
+
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
