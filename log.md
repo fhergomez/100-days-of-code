@@ -227,6 +227,16 @@ I was able to get geolocation working, and show up on the front end. Now I'll be
 
 ***
 
+### Day 22: February 20, Monday
+
+Not very much was done because of my cold, but I was able to work a little more on js trying to get the right values from the api.
+
+**mood**: feeling pretty sick. not in the mood to code at all.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+***
+
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
