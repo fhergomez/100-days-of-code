@@ -257,6 +257,14 @@ My toggle button was having some difficulties because it was triggering multiple
 
 ***
 
+### Day 25: February 23, Thursday
+
+I've been trying to display the 7 day forecast, but I haven't been successful. The requisites for the app are all done, but I want to add a little more info.
+
+**mood**: Today I finally I got over my cold...feeling good about coding.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
