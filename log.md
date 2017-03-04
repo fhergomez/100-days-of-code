@@ -295,6 +295,18 @@ Worked on the Weather App....I was able to bring in the weekday from the Date() 
 
 **project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
 
+***
+
+### Day 29: March 2, Thursday
+
+Finished the Weather App for now. I think it's functional, but as far as design, I will work on it a little bit later after I finsih the 100 days of code.
+
+**mood**: I was feeling good, but was falling asleep because it was a bit late when I was coding.
+
+**project**: [Weather App](http://www.fernandogomez.io/WeatherApp/)
+
+***
+
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
