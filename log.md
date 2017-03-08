@@ -327,6 +327,14 @@ As you can see, I skipped a day, but I'd had to say I had to take another break 
 
 ***
 
+### Day 32: March 5, Monday
+
+Worked on the Wikipedia Viewer App, but I can't get the data to appear on the site. I'm not sure what I'm doing wrong. Hopefully tomorrow I'll have better luck.
+
+**mood**: Felt great since it's the start of the week and a new project. I did feel a little frustrated because I couldn't get the data to appear on the page, but that's the life of a programmer....I guess :)
+
+**project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
+
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
