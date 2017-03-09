@@ -335,6 +335,16 @@ Worked on the Wikipedia Viewer App, but I can't get the data to appear on the si
 
 **project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
 
+***
+
+### Day 33: March 6, Tuesday
+
+I was able to bring the data from the API to the front end, and now is all about getting it on the page and put on some styling.
+
+**mood**: I was a little tired because I had to work late, but I was able to put on a little more than an hour of code.
+
+**project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
+
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
