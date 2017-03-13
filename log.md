@@ -219,7 +219,7 @@ Today I'm trying to work on the front end and geolocation. I'm not sure what to 
 
 ***
 
-### Day 21: February 29, Sunday
+### Day 21: February 19, Sunday
 
 I was able to get geolocation working, and show up on the front end. Now I'll be working on putting all the info in the front end of the app.
 
@@ -317,7 +317,7 @@ Today I started working on the Wikipedia Viewer App for FreeCodeCamp. I'm dealin
 
 ***
 
-### Day 31: March 4, Sunday
+### Day 31: March 5, Sunday
 
 As you can see, I skipped a day, but I'd had to say I had to take another break because I was invited for wine tasting in Woodinville, WA, and I couldn't resist....I LOVE WINE!! Anyways, today I did some finishing touches to the Weather App and worked on the Wikipedia Viewer App using HTML, CSS, and JS.
 
@@ -327,7 +327,7 @@ As you can see, I skipped a day, but I'd had to say I had to take another break 
 
 ***
 
-### Day 32: March 5, Monday
+### Day 32: March 6, Monday
 
 Worked on the Wikipedia Viewer App, but I can't get the data to appear on the site. I'm not sure what I'm doing wrong. Hopefully tomorrow I'll have better luck.
 
@@ -337,13 +337,64 @@ Worked on the Wikipedia Viewer App, but I can't get the data to appear on the si
 
 ***
 
-### Day 33: March 6, Tuesday
+### Day 33: March 7, Tuesday
 
 I was able to bring the data from the API to the front end, and now is all about getting it on the page and put on some styling.
 
 **mood**: I was a little tired because I had to work late, but I was able to put on a little more than an hour of code.
 
 **project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
+
+***
+
+### Day 34: March 8, Wednesday
+
+As I was working on the Wikipedia Viewer App, for some reason the data is not coming through and now I can't get it to work. I spent more than 2 hours trying to figure it out, but I wasn't able to do it. I will work on it more tomorrow.
+
+**mood**: frustrated because I'm not sure what could be the problem.
+
+**project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
+
+***
+
+### Day 35: March 9, Thursday
+
+Today I was only able to work on the app for about 20 minutes, but I still can't figure out why ajax is not working. It was working fine on Tuesday.
+
+**mood**: Not in the mood to code because I had a long day at work. Hopefully tomorrow I'll have more energy.
+
+**project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
+
+***
+
+### Day 36: March 10, Friday
+
+I'm not sure what's going on with my app still. I'm going to stack-overflow to see if anybody is able to help me because I still can't figure it out why the data is not coming back from the API when it was working fine 3 days ago.
+
+**mood**: feeling very mad and frustrated :(
+
+**project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
+
+***
+
+### Day 37: March 11 Saturday
+
+Today all I did was work on trying to resolve what was wrong witht the API, and why it stopped working all of a sudden, and I finally was able to figure it out.
+
+**mood**: felt good after resolving the problem on my code....feeling very happy at the end!! :)
+
+**project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
+
+***
+
+### Day 38: March 12 Sunday
+
+I worked on the styling of the Wikipedia Viewer App, and I was finally able to finish. It took me more than anticipated because of the little problem I had on the front-end, but now I'm moving on to the next project which is the Twitchtv JSON API.
+
+**mood**: feeling good and excited to start another project.
+
+**project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
+
 
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
