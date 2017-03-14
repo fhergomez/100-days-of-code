@@ -395,6 +395,16 @@ I worked on the styling of the Wikipedia Viewer App, and I was finally able to f
 
 **project**: [Wikipedia Viewer App](http://www.fernandogomez.io/WikipediaViewer/)
 
+***
+
+### Day 39: March 13 Monday
+
+Today I started the TwitcTV JSON API project, so mostly what I did today was setup the project and make sure all the files were loading correctly as well as the CDNs.
+
+**mood**: I was a little tired from work, but I was able to code for half an hour.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
 
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
