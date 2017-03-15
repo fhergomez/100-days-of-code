@@ -405,7 +405,15 @@ Today I started the TwitcTV JSON API project, so mostly what I did today was set
 
 **project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
 
+***
 
+### Day 40: March 14: Tuesday
+
+I mostly did research for the Twitch API, but seems a like I need a client ID to be able to get the API to function. I'm still not sure what I need to do for the project, but as I read more, about it, the cleare it's getting.
+
+**mood**: feeling confused because I'm not sure I understand what I need to do for the project.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
