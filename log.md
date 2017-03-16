@@ -415,6 +415,16 @@ I mostly did research for the Twitch API, but seems a like I need a client ID to
 
 **project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
 
+***
+
+### Day 41: March 15: Wednesday
+
+Today I spent most of the time trying to get the API to work, but apparently the website is not working, so I'm going to come back to this project and leave it as a pending project. Apparently, freeCodeCamp is getting rid of this project soon.
+
+**mood**: frustrated at times because I didn't know what I supoosed to be doing with this project and because the API wasn't working.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
 [//]: # (**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.)
