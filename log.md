@@ -425,6 +425,45 @@ Today I spent most of the time trying to get the API to work, but apparently the
 
 **project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
 
+***
+
+### Day 42: March 16: Thursday
+
+I'm trying to skip this project because I have no idea what is being asked to do with the project. Today I mostly tried figuring out what's the best version of the API is best for my app.
+
+**mood**: still very frustrated because I'm not sure what to do.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
+***
+
+### Day 43: March 17: Friday
+
+Friday is my drinking day, so I usually only have time for 30 minutes of coding, so mostly I worked on the API.
+
+**mood**: feeling confused.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
+***
+
+### Day 44: March 18: Saturday
+
+I'm feeling so confused and I feel like an idiot because I'm not sure what's going with the API. I'm trying to get over the hump, and work my way through the project, but I can't. I have no idea
+
+**mood**: not feeling good about this project.....feeling terrible.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
+***
+
+### Day 45: March 19: Sunday
+
+I finally make a breakthrough on the App, but my problme is figuring out what kind of data I should bring to the front from the API. I
+
+**mood**: optimistic about the project, but still feeling a little loss regarding what needs to be done.
+
+
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
 [//]: # (**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.)
