@@ -377,7 +377,7 @@ I'm not sure what's going on with my app still. I'm going to stack-overflow to s
 
 ***
 
-### Day 37: March 11 Saturday
+### Day 37: March 11, Saturday
 
 Today all I did was work on trying to resolve what was wrong witht the API, and why it stopped working all of a sudden, and I finally was able to figure it out.
 
@@ -387,7 +387,7 @@ Today all I did was work on trying to resolve what was wrong witht the API, and 
 
 ***
 
-### Day 38: March 12 Sunday
+### Day 38: March 12, Sunday
 
 I worked on the styling of the Wikipedia Viewer App, and I was finally able to finish. It took me more than anticipated because of the little problem I had on the front-end, but now I'm moving on to the next project which is the Twitchtv JSON API.
 
@@ -397,7 +397,7 @@ I worked on the styling of the Wikipedia Viewer App, and I was finally able to f
 
 ***
 
-### Day 39: March 13 Monday
+### Day 39: March 13, Monday
 
 Today I started the TwitcTV JSON API project, so mostly what I did today was setup the project and make sure all the files were loading correctly as well as the CDNs.
 
@@ -407,7 +407,7 @@ Today I started the TwitcTV JSON API project, so mostly what I did today was set
 
 ***
 
-### Day 40: March 14: Tuesday
+### Day 40: March 14, Tuesday
 
 I mostly did research for the Twitch API, but seems a like I need a client ID to be able to get the API to function. I'm still not sure what I need to do for the project, but as I read more, about it, the cleare it's getting.
 
@@ -417,7 +417,7 @@ I mostly did research for the Twitch API, but seems a like I need a client ID to
 
 ***
 
-### Day 41: March 15: Wednesday
+### Day 41: March 15, Wednesday
 
 Today I spent most of the time trying to get the API to work, but apparently the website is not working, so I'm going to come back to this project and leave it as a pending project. Apparently, freeCodeCamp is getting rid of this project soon.
 
@@ -427,7 +427,7 @@ Today I spent most of the time trying to get the API to work, but apparently the
 
 ***
 
-### Day 42: March 16: Thursday
+### Day 42: March 16, Thursday
 
 I'm trying to skip this project because I have no idea what is being asked to do with the project. Today I mostly tried figuring out what's the best version of the API is best for my app.
 
@@ -437,32 +437,92 @@ I'm trying to skip this project because I have no idea what is being asked to do
 
 ***
 
-### Day 43: March 17: Friday
+### Day 43: March 17, Friday
 
-Friday is my drinking day, so I usually only have time for 30 minutes of coding, so mostly I worked on the API.
+I still can't get the API to work, and I'm getting really frustrated. I wasn't able to work on it a lot because it's Friday. On Fridays, I usually go out to dinner and drinks, so it doesn't leave me a lot of time on the day to do a lot of coding.
 
-**mood**: feeling confused.
-
-**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
-
-***
-
-### Day 44: March 18: Saturday
-
-I'm feeling so confused and I feel like an idiot because I'm not sure what's going with the API. I'm trying to get over the hump, and work my way through the project, but I can't. I have no idea
-
-**mood**: not feeling good about this project.....feeling terrible.
+**mood**: feeling lazy due to Friday symptoms :)
 
 **project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
 
 ***
 
-### Day 45: March 19: Sunday
+### Day 44: March 19, Sunday
 
-I finally make a breakthrough on the App, but my problme is figuring out what kind of data I should bring to the front from the API. I
+Not much done due to the fact that I still can't get the twitchTV API to work. I will try again tomorrow.
 
-**mood**: optimistic about the project, but still feeling a little loss regarding what needs to be done.
+**mod**: not feeling good because I can't get anything to show from the API
 
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
+***
+
+### Day 45: March 20, Monday
+
+I spent more than 3 hours on the TwitchTV API, and I noticed that Chrome is giving me an error on the console that has to do with the TwitchTV site, and that's the reason probable I haven't been able to advance on the project. I will try tomorrow hoping I can achieve something.
+
+**mood**: a bit relieved because the problem is not on my end, but frustrated because I've been on this project for almost 2 weeks, and I haven't been able to advance to my next project.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
+***
+
+### Day 46: March 21, Tuesday
+
+I was able to bring in data to the front-end....FINALLY!!! Now I will be working on the design and what kind of data I want to bring in from the API.
+
+**mood**: Feeling good for the first time in a long time.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
+***
+
+### Day 46: March 22, Wednesday
+
+Trying to figure out how to find out if the user is offline or online. I wasn't able to spend a lot of time on the project today because I had to work all day on my job.
+
+**mood**: tired and sleepy because of my job....will go get some rest now!
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
+***
+
+### Day 47: March 23, Thursday
+
+I was able to figure out if the user is online or offline, but I can't get the status to align with the right group. Everytime it refreshes it either goes gives me the wrong status for the user, or it says 'undefined'. I need to work on it a little more.
+
+**mood**: Feeling good, but at the same time defeated because I spent a lot of time trying to figure out why it's not giving me the correct status for the user.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
+***
+
+### Day 48: March 24, Friday
+
+Friday is my drinking day, so I usually only have time for 30 minutes of coding, so mostly I worked on the front-end.
+
+**mood**: feeling bad for not coding enough and not being able to finish the project to move on to the next one.
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
+***
+
+### Day 49: March 25, Saturday
+
+I finally was able to align the right status with the user. Now I'm moving on to the next user story.
+
+**mood**: feeling good after figuring out the problem
+
+**project**: [TwitchTV JSON API App](http://www.fernandogomez.io/TwitchTV/)
+
+***
+
+### Day 50: March 26, Sunday
+
+
+
+
+***
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
