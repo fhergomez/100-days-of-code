@@ -527,6 +527,16 @@ I finished the TwitchTV JSON API App, and now I'll move on to the next section o
 
 ***
 
+### Day 51: March 27, Monday
+
+Today I started on intermediate Alorithm Scripts on freeCodeCamp. I'm working on the sum of all numbers in a range, but I haven't been able to figure it out. I will try again tomorrow.
+
+**mood**: Feeling good and excited to start the algorithms.
+
+**project**: [Sum of all numbers in a Range](**link coming soon**)
+
+***
+
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
 [//]: # (**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.)
