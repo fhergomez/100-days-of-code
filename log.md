@@ -620,7 +620,17 @@ Today I finished the Roman numeral converter Algorithm but with a little help fr
 
 ### Day 60: April 5, Wednesday
 
-I took it easy
+I took it easy today. I did half an hour of code, but I was able to solve the next Algorithm (Wherefore art thou) with a little help from StackOverflow.com.
+
+**mood**: tired and not in the mood to code
+
+**project**: [Intermediate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
+***
+
+### Day 61: April 6, Thursday
+
+
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
