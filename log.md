@@ -630,6 +630,14 @@ I took it easy today. I did half an hour of code, but I was able to solve the ne
 
 ### Day 61: April 6, Thursday
 
+Today I work on the Algorithm Search and Replace, and it wasn't actually as hard as I thought it would be. I did get help....but who doesn't :)
+Anyways, It's a struggle to go through all this algorithms specially for someone like me whom I consider a novice to programming. There's always lots of room to grow.
+
+**mood** Frustrated because I can't solve any of this algorithms by self.
+
+**project**: [Intermediate Algorithms](http://www.fernandogomez.io/IntermediateAlgorithms/)
+
+***
 
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
