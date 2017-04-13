@@ -689,6 +689,14 @@ I'm worked on Data Types on HackerRank.com, and also went to codeAcademy to revi
 
 ***
 
+### day 67: April 12, Wednesday
+
+I worked on the next Algorith (DNA pairing) from freeCodeCamp, and I'd have to say that was pretty hard like the rest of them.
+
+**mood**: tired and confused.
+
+**projects**: [Intermediate Algorithms](http://www.fernandogomez.io/)
+
 
 [//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
